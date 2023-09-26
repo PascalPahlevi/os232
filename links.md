@@ -13,3 +13,6 @@ This link is pretty simple however, considering that majority of this course mak
 
 3. (https://vim.rtorr.com/)<br>
 The link above is quite simple a vim cheatsheet. I find the link to be really helpful, especially since I am very new to vim as it helps me work my way through the text editor and guide me on how to properly use it. With that said, it helps me avoid mistakes which could end up possibly breaking scripts that I wrote with it.
+
+4. (https://www.youtube.com/watch?v=RZ4p-saaQkc)<br>
+The link above is a video that I watched that essentially was a beginners guide to VIM. The video is a tutorial demonstrating the different things you can do with VIM and also explains how the different scripts showcased in the video works. 
