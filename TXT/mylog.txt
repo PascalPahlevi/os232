@@ -1,6 +1,11 @@
 # Log Format
 # ZCZC Week# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W04 60 L01 SCELE/Discord related
+ZCZC W04 100 L02 CLASSROOM related
+ZCZC W04 30 L03 Github related
+ZCZC W04 12 L05 QUIZ
+ZCZC W04 30 Weekly Assignments
 ZCZC W03 60 L01 SCELE/Discord related
 ZCZC W03 200 L02 CLASSROOM related
 ZCZC W03 120 L03 Github related
