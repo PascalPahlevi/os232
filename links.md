@@ -34,3 +34,9 @@ The video above is a beginner course to bash scripting, however not only does it
 
 10.[Working with tarballs on Linux](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)<br>
 The link above leads to an article that gives a brief explanation on what Tarball is as well as how it can be used on Linux. The article has a step-by-step tutorial on how to create a Tarball as well as how you can extract it.
+
+11.[Vim Alternatives: 7+ Code and Text Editors](https://www.youtube.com/watch?v=53CfsUZxadM)<br>
+The link above is a video that suggests other text editors aside from Vim. The video would help us in finding our preferred text editor, if in any case, we are not too comfortable in using Vim. 
+
+12.[Top 10 C projects for beginners](https://www.analyticsinsight.net/top-10-c-projects-for-beginners-to-sharpen-necessary-skills-in-2022/)<br>
+This link leads to an article with ideas to help sharpen our skills when it comes to coding in C. These projects are recommended for beginners in the first place and is definitely a good place to start and practice coding in C.
