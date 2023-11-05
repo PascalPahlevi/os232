@@ -40,3 +40,6 @@ The link above is a video that suggests other text editors aside from Vim. The v
 
 12.[Top 10 C projects for beginners](https://www.analyticsinsight.net/top-10-c-projects-for-beginners-to-sharpen-necessary-skills-in-2022/)<br>
 This link leads to an article with ideas to help sharpen our skills when it comes to coding in C. These projects are recommended for beginners in the first place and is definitely a good place to start and practice coding in C.
+
+13.[C fork() Function](https://www.scaler.com/topics/c-fork/)<br>
+The link basically explains everything that has to do with the fork() function in C. This function is essentially the act of duplicating a process from an existing process.
