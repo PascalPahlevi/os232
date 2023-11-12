@@ -43,3 +43,6 @@ This link leads to an article with ideas to help sharpen our skills when it come
 
 13.[C fork() Function](https://www.scaler.com/topics/c-fork/)<br>
 The link basically explains everything that has to do with the fork() function in C. This function is essentially the act of duplicating a process from an existing process.
+
+14. [SCP vs CP: What's the Difference and When to Use Each?](https://devicetests.com/scp-vs-cp-difference-when-to-use)<br>
+The link above is an article that tells us the differences between CP vs SCP. Though both commands can be used in Linux to copy over files, they both have differenbt purposes. This article is a good way on understanding the differences and helping us figure out which command to use in copying depending on the situation.
