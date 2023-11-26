@@ -44,8 +44,11 @@ This link leads to an article with ideas to help sharpen our skills when it come
 13.[C fork() Function](https://www.scaler.com/topics/c-fork/)<br>
 The link basically explains everything that has to do with the fork() function in C. This function is essentially the act of duplicating a process from an existing process.
 
-14. [SCP vs CP: What's the Difference and When to Use Each?](https://devicetests.com/scp-vs-cp-difference-when-to-use)<br>
+14.[SCP vs CP: What's the Difference and When to Use Each?](https://devicetests.com/scp-vs-cp-difference-when-to-use)<br>
 The link above is an article that tells us the differences between CP vs SCP. Though both commands can be used in Linux to copy over files, they both have differenbt purposes. This article is a good way on understanding the differences and helping us figure out which command to use in copying depending on the situation.
 
-15. [Chapter 3 : Packages and Patches - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=3x0QkscPOCY&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=5)<br>
+15.[Chapter 3 : Packages and Patches - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=3x0QkscPOCY&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=5)<br>
 The link above leads to a youtube video from Kernotex's LFS playlist. Upon reaching chapter 3, the video will guide us step-by-step on how to install all the packages and patces required for the project.
+
+16.[Chapter 6 : Cross-Compiling Temporary Tools - How tp build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8)<br>
+Chapter 6 of LFS is quite a long process due to the fact that it has a lot compiling that needs to be done. Therefore, the video above is very useful in making sure that all packages and patches are install correctly.
